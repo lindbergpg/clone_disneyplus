@@ -37,6 +37,10 @@
                 overflow: hidden;
                 padding: 0 24px;
                 transition: height, .5s ease;
+
+                &__prg {
+                    margin-bottom: 16px;
+                }
             }
 
             &--is-open {
